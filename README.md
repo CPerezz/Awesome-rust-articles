@@ -13,5 +13,8 @@ Feel free to PR.
 - [dyn*: can we make dyn sized?](https://smallcultfollowing.com/babysteps//blog/2022/03/29/dyn-can-we-make-dyn-sized/)
 - [dyn* doesn't need to be special](https://getpocket.com/read/3592101352)
 
+### WASM
+- [Threads and messages with Rust and WebAssembly](https://www.eventhelix.com/rust/rust-to-assembly-arrays-option-box/)
+
 ### Tooling
 - [My tools are going rusty](https://ellie.wtf/my-tools-are-pretty-rusty/)
