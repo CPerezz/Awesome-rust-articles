@@ -12,6 +12,7 @@ Feel free to PR.
 ### Ideas & Prototypes
 - [dyn*: can we make dyn sized?](https://smallcultfollowing.com/babysteps//blog/2022/03/29/dyn-can-we-make-dyn-sized/)
 - [dyn* doesn't need to be special](https://getpocket.com/read/3592101352)
+- [A Look at dyn* code generation](https://blog.theincredibleholk.org/blog/2022/12/12/dyn-star-codegen/)
 
 ### WASM
 - [Threads and messages with Rust and WebAssembly](https://www.eventhelix.com/rust/rust-to-assembly-arrays-option-box/)
