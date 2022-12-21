@@ -22,3 +22,6 @@ Feel free to PR.
 
 ### Tooling
 - [My tools are going rusty](https://ellie.wtf/my-tools-are-pretty-rusty/)
+
+### Misc
+- [Caches In Rust](https://matklad.github.io/2022/06/11/caches-in-rust.html)
