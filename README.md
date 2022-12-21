@@ -6,6 +6,9 @@ Feel free to PR.
 ### Borrowing
 - [A Better Way to Borrow in Rust: Stack Tokens](https://lucumr.pocoo.org/2022/11/23/stack-tokens/)
 
+### Parallelization/multi-threading
+- [Why Rust mutexes look like they do](http://cliffle.com/blog/rust-mutexes/)
+
 ### GATs (Generic Associated Types)
 - [Many modes: a GATs pattern](https://smallcultfollowing.com/babysteps/blog/2022/06/27/many-modes-a-gats-pattern/#many-modes-a-gats-pattern)
 
