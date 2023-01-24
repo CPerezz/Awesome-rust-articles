@@ -20,6 +20,9 @@ Feel free to PR.
 ### WASM
 - [Threads and messages with Rust and WebAssembly](https://www.eventhelix.com/rust/rust-to-assembly-arrays-option-box/)
 
+### FFI
+- [We don't need a stable ABI](https://blaz.is/blog/post/we-dont-need-a-stable-abi/)
+
 ### Tooling
 - [My tools are going rusty](https://ellie.wtf/my-tools-are-pretty-rusty/)
 
