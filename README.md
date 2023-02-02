@@ -11,6 +11,7 @@ Feel free to PR.
 
 ### GATs (Generic Associated Types)
 - [Many modes: a GATs pattern](https://smallcultfollowing.com/babysteps/blog/2022/06/27/many-modes-a-gats-pattern/#many-modes-a-gats-pattern)
+- [The better alternative to lifetime GATs](https://sabrinajewson.org/blog/the-better-alternative-to-lifetime-gats)
 
 ### Ideas & Prototypes
 - [dyn*: can we make dyn sized?](https://smallcultfollowing.com/babysteps//blog/2022/03/29/dyn-can-we-make-dyn-sized/)
