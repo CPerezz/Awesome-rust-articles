@@ -26,6 +26,7 @@ Feel free to PR.
 
 ### WASM
 - [Threads and messages with Rust and WebAssembly](https://www.eventhelix.com/rust/rust-to-assembly-arrays-option-box/)
+- [(WASM)Plugins for Rust](https://reorchestrate.com/posts/plugins-for-rust/)
 
 ### FFI
 - [We don't need a stable ABI](https://blaz.is/blog/post/we-dont-need-a-stable-abi/)
