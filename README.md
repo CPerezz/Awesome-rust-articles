@@ -27,5 +27,8 @@ Feel free to PR.
 ### Tooling
 - [My tools are going rusty](https://ellie.wtf/my-tools-are-pretty-rusty/)
 
+### Compiler
+- [Next Rust compiler](https://matklad.github.io/2023/01/25/next-rust-compiler.html)
+
 ### Misc
 - [Caches In Rust](https://matklad.github.io/2022/06/11/caches-in-rust.html)
