@@ -3,6 +3,9 @@
 A community-maintained list of interesting and worth-reading Rustlang articles/posts.
 Feel free to PR.
 
+
+### Lang
+- [Integer overflow in Rust](https://bmoxb.io/2023/01/28/integer-overflow-in-rust.html)
 ### Borrowing
 - [A Better Way to Borrow in Rust: Stack Tokens](https://lucumr.pocoo.org/2022/11/23/stack-tokens/)
 
