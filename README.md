@@ -12,6 +12,9 @@ Feel free to PR.
 ### Parallelization/multi-threading
 - [Why Rust mutexes look like they do](http://cliffle.com/blog/rust-mutexes/)
 
+### Error Handling
+- [Anyhow err handling](https://antoinerr.github.io/blog-website/2023/01/28/rust-anyhow.html)
+
 ### GATs (Generic Associated Types)
 - [Many modes: a GATs pattern](https://smallcultfollowing.com/babysteps/blog/2022/06/27/many-modes-a-gats-pattern/#many-modes-a-gats-pattern)
 - [The better alternative to lifetime GATs](https://sabrinajewson.org/blog/the-better-alternative-to-lifetime-gats)
