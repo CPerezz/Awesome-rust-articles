@@ -10,6 +10,7 @@ Feel free to PR.
 - [Rust is beyond OOP Pt.2](https://www.thecodedmessage.com/posts/oop-2-polymorphism/)
 ### Borrowing
 - [A Better Way to Borrow in Rust: Stack Tokens](https://lucumr.pocoo.org/2022/11/23/stack-tokens/)
+- [Lifetimes docs from lifetimekata's exercises Book](https://tfpk.github.io/lifetimekata/chapter_0.html)
 
 ### Parallelization/multi-threading
 - [Why Rust mutexes look like they do](http://cliffle.com/blog/rust-mutexes/)
