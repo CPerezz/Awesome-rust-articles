@@ -28,6 +28,7 @@ Feel free to PR.
 - [A Look at dyn* code generation](https://blog.theincredibleholk.org/blog/2022/12/12/dyn-star-codegen/)
 
 ### WASM
+- [Rust to WASM - The hard way](https://surma.dev/things/rust-to-webassembly/index.html)
 - [Threads and messages with Rust and WebAssembly](https://www.eventhelix.com/rust/rust-to-assembly-arrays-option-box/)
 - [(WASM)Plugins for Rust](https://reorchestrate.com/posts/plugins-for-rust/)
 
