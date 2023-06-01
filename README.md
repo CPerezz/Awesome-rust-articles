@@ -19,6 +19,9 @@ Feel free to PR.
 ### Parallelization/multi-threading
 - [Why Rust mutexes look like they do](http://cliffle.com/blog/rust-mutexes/)
 
+### Type system
+- [Linear types one-pager](https://blog.yoshuawuyts.com/linear-types-one-pager/)
+
 ### Error Handling
 - [Anyhow err handling](https://antoinerr.github.io/blog-website/2023/01/28/rust-anyhow.html)
 
@@ -44,6 +47,7 @@ Feel free to PR.
 
 ### Compiler
 - [Next Rust compiler](https://matklad.github.io/2023/01/25/next-rust-compiler.html)
+- [VeqDeque::resize() compiler optimization PR demitification](https://rustmagazine.org/issue-1/vecdeque-resize-optimization/)
 
 ### Misc
 - [Caches In Rust](https://matklad.github.io/2022/06/11/caches-in-rust.html)
